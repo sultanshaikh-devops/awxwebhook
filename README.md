@@ -1,3 +1,0 @@
-# awxwebhook
-
-I am cool!
